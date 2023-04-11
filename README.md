@@ -1,10 +1,10 @@
 ### Hi there, I'm Ahmed Alasow. 👋
 
-I am a pasionate back-end developer, currently open for employment.
+I am a pasionate back-end developer, currently open for employment. I have recently graduated from a 6 month coding bootcamp from the University of Birmingham, where I have learned and developed skills in several programming languages such as HTML, CSS, JavaScript.
 
 ***
 
-### 🔭 My Projects
+### ✨✨ My Projects ✨✨
 
 - [My Portfolio](https://github.com/Alasow2001/React-Portfolio)
 - [Password Generator](https://github.com/Alasow2001/Password-generator)
@@ -26,7 +26,7 @@ I am a pasionate back-end developer, currently open for employment.
 
 ***
 
-### Fun facts
+### ⚡⚡ Fun facts ⚡⚡
 
 - I love playing retro-style video games
 
