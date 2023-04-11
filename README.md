@@ -1,5 +1,35 @@
 ### Hi there, I'm Ahmed Alasow. 👋
 
+I am a pasionate back-end developer, currently open for employment.
+
+***
+
+### 🔭 My Projects
+
+- [My Portfolio](https://github.com/Alasow2001/React-Portfolio)
+- [Password Generator](https://github.com/Alasow2001/Password-generator)
+- [Text Editor](https://github.com/Alasow2001/PWA-Text-Editor)
+
+### 🌱 I'm currently learning:
+
+- Amazon Web Services (AWS)
+- .NET Frameworks
+- C#
+- TypeScript
+
+***
+
+### 🔭 I'm currently working on:
+
+- Tech Blog built using React.js
+- Snake game buil using JavaScript
+
+***
+
+### Fun facts
+
+- I love playing retro-style video games
+
 <!--
 **Alasow2001/Alasow2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
