@@ -14,6 +14,8 @@ I am a pasionate back-end developer, currently open for employment. I have recen
 
 - Amazon Web Services (AWS)
 - TypeScript
+- PHP
+- Python
 
 ***
 
