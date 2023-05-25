@@ -13,16 +13,14 @@ I am a pasionate back-end developer, currently open for employment. I have recen
 ### 🌱 I'm currently learning:
 
 - Amazon Web Services (AWS)
-- .NET Frameworks
-- C#
 - TypeScript
 
 ***
 
 ### 🔭 I'm currently working on:
 
-- Tech Blog built using React.js
-- Snake game buil using JavaScript
+- Snake game built using JavaScript
+- Finance logger using TypeScript
 
 ***
 
