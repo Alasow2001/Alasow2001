@@ -24,7 +24,6 @@ I am a pasionate back-end developer, currently open for employment. I have recen
 
 - Snake game built using JavaScript
 - Finance logger using TypeScript
-- Number guessing game using Python
 
 ***
 
